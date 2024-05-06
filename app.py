@@ -69,4 +69,5 @@ def defineCategory():
 
 
 if __name__ == "__main__":
+    print("Listening port")
     app.run(debug=True, port=8000)
