@@ -5,10 +5,7 @@ from flask import Flask, request, jsonify
 import librosa
 import numpy as np
 from skimage.transform import resize
-from tensorflow import keras
 import base64
-import io
-from tensorflow import keras
 import os
 import tensorflow as tf
 
